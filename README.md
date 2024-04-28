@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reema</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Data analysis & python programming**
+- 🌱 I’m currently learning **Data analysis & Machine Learning**
 
 - 📫 How to reach me **realghamdi7@gmail.com**
 
