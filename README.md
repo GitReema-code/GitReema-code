@@ -2,7 +2,7 @@
 <h3 align="center">IT Graduate | Data Analysis | Machine Learning | Generative AI | MLOps</h3>
 
 - 🎓 IT Graduate from **Taif University** (First-Class Honors).  
-- 🌱 Currently learning and building projects in **Data Science, Machine Learning, and Generative AI** through the SDAIA Bootcamp with WeCloudData.  
+- 🌱 Currently learning and building projects in **Data Science, Machine Learning, and Generative AI**   
 - 💡 Interested in **Arabic NLP, RAG systems, and enterprise AI solutions**.  
 - 📊 Skilled at turning raw data into meaningful insights and deploying data-driven solutions.  
 - 📫 Reach me at **rimalghamdi76@gmail.com**
