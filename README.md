@@ -43,10 +43,10 @@
 
 ---
 
-
 ### 📫 Contact Me  
 📧 rimalghamdi76@gmail.com  
-🌐 GitHub: [GitReema-code](https://github.com/GitReema-code)
+🌐 GitHub: [GitReema-code](https://github.com/GitReema-code)  
+🌐 LinkedIn: [Reema Alghamdi](https://www.linkedin.com/in/reema-alghamdi-2a25a71b9/)
 
 ---
 
